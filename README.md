@@ -1,6 +1,9 @@
 # django-seed
 Django boilerplate.
 
+##Setup development environment.
+
+
 ##Init project.
     The following command will install all project dependencies.
 
@@ -10,3 +13,7 @@ Django boilerplate.
 ##Running tests.
 
     `pytest` or `pytest --ds=project.settings_test tests/`
+
+
+##Renaming files.
+    The following files needs to be renamed to suits your project.
