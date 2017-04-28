@@ -5,7 +5,7 @@ URLS_PUBLIC = [
 ]
 
 
-class SimpleTests(TestCase):
+class SimpleIntegrationTestCase(TestCase):
     def test_urls(self):
         for url in URLS_PUBLIC:
             res = self.client.get(url)
