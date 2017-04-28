@@ -9,7 +9,6 @@ setup(
     url='http://example.com',
     install_requires=[
         'Django',
-        'djangorestframework',
     ],
     package_dir={'': 'src'},
     packages=find_packages('src'),
