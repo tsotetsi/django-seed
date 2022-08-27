@@ -92,3 +92,5 @@ dev/
 
 # IDE files
 *.idea/
+
+*.sqlite3
